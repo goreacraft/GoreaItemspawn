@@ -1,0 +1,4 @@
+ChechUpdates: true
+Start all spawnpoints on startup: false
+Only one item at a time: true
+Check if unique in whole world: false

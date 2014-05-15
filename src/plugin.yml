@@ -1,0 +1,11 @@
+name: GoreaItemspawn
+author: GoreaCraft
+main: com.goreacraft.plugins.goreaitemspawn.GoreaItemspawn
+version: 2.2
+website: http://www.goreacraft.com
+description: Spawns items at location on timer!
+commands:
+    goreaitemspawn:
+        aliases: [gi, gispawn]
+        description: Main command for GoreaItemspawn plugin
+        usage: /gi ?, /gi help
