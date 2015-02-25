@@ -1,7 +1,7 @@
 name: GoreaItemspawn
 author: GoreaCraft
 main: com.goreacraft.plugins.goreaitemspawn.GoreaItemspawn
-version: 3.0
+version: 3.1
 website: http://www.goreacraft.com
 description: Spawns items at location on timer!
 commands:
